@@ -1,1 +1,1 @@
-Public class Test{}
+public static void main(Strg[args]){}
